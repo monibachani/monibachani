@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @monibachani
+- 👋 Hi, I’m @Monitbachani
 - 👀 I’m interested in python ML, Web development, AI, &  Information security
+- 🏫 Student at DY Patil International University,Pune 
+- 👔 Pursing BCA
 - 🌱 I’m currently learning python
 - 📫 Reach me at monibachani3@gmail.com
 
